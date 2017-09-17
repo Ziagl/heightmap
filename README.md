@@ -3,12 +3,10 @@ A simple console programm to create a random heightmap based on different algori
 
 Following algotihms can be used to create an initial heightmap:
 
-Fractal algorithms
+Fractal (1-3) and procedural (4-7) algorithms
 1. triangle division
 2. diamond-square
 3. midpoint disblacement
-
-procedural algorithms
 4. fault formation
 5. particle deposition
 6. perlin noise
