@@ -25,3 +25,5 @@ How To:
 just comile source code and put data folder in the same directory as generated heightmap binary.
 
 Tested on Windows (Visual Studio) and Linux (CodeLite)
+
+More details about this: https://developer-blog.net/cplusplus-programm-windows-linux-portieren/
